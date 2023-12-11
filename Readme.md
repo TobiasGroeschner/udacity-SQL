@@ -10,7 +10,7 @@ Each project contains a detailed README file documenting the project description
 | Project No. | Project |
 | ---		  | ----    |
 | 01		  | [Deforestation Exploration](/Project-1/) 	|
-| 02 		  | [test](/Project-2/) 								|
+| 02 		  | [Udiddit, A Social News Aggegator](/Project-2/) 								|
 
 ## Nanodegree Certificate
 
